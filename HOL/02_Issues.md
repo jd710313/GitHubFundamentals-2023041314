@@ -57,11 +57,11 @@ The lab contains the following sections:
 
 ```yaml
 ---
-name: 🐞 Bug report wulfland
+name: 🐞 Bug report for Jasper
 about: Create a report to help us improve
 title: '[Bug]:'
 labels: 'bug'
-assignees: 'wulfland'
+assignees: 'jaspergilhuis'
 
 ---
 
